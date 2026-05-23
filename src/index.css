@@ -1,0 +1,22 @@
+html, body {
+  height: 100%; 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  /* display: flex;
+  justify-content: center; 
+  align-items: center;     */
+  background: #e0e5ec;    
+
+}
+
+@media (max-width: 505px) {
+  html,body{
+    background: #f0f4f8;
+     
+    
+    
+  }
+}
+ 
