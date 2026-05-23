@@ -13,13 +13,13 @@
 
 | Desktop View | Mobile View |
 |---|---|
-| ![Desktop](./screenshots/desktop.png) | ![Mobile](./screenshots/mobile.png) |
+| ![Desktop](./screenshot/desktop.png) | ![Mobile](./screenshot/mobile.png) |
 
 ---
 
 # 🚀 Live Demo
 
-🔗 **[https://your-live-demo-link.netlify.app](https://your-live-demo-link.netlify.app)**
+🔗 **[https://ak-pass.netlify.app](https://ak-pass.netlify.app/)**
 
 ---
 
@@ -158,7 +158,7 @@ volpass/
 │   ├── main.jsx
 │   └── assets/
 │
-├── screenshots/
+├── screenshot/
 │   ├── desktop.png
 │   └── mobile.png
 │
@@ -172,7 +172,6 @@ volpass/
 
 ## Prerequisites
 
-- Node.js 18+
 - npm or yarn
 
 ---
@@ -181,7 +180,7 @@ volpass/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/volpass.git
+git clone https://github.com/rkhassan420/volpass.git
 
 # 2. Navigate to project
 cd volpass
@@ -196,17 +195,7 @@ npm run dev
 Application runs at:
 
 ```bash
-http://localhost:5173
-```
-
----
-
-# 🌐 API Endpoint
-
-The application connects to the following password generation API:
-
-```bash
-https://portfolio-production-2376.up.railway.app/generate/
+http://localhost:3000
 ```
 
 ---
